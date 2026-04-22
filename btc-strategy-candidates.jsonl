@@ -1,0 +1,4 @@
+{"ts":"2026-04-22T00:00:00Z","result":"NO_CANDIDATE","reason":"insufficient_data: 57 candles fetched, need 300+ for BB(20,2)/RSI(14) warmup; n=0 setups detected"}
+{"ts":"2026-04-22T17:13:53Z","result":"ERROR","reason":"15m: 1 bar, 60m: 1 bar, 240m: 400 error"}
+{"ts":"2026-04-22T00:00:00Z","result":"ERROR","reason":"Deribit 240m resolution failed (400): endpoint limitation or data unavailable"}
+{"ts":"2026-04-22T04:35:49.062Z","result":"NO_CANDIDATE","reason":"No setup met wr>=0.55 and n>=10"}
