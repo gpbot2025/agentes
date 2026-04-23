@@ -2,3 +2,4 @@
 {"ts":"2026-04-22T17:13:53Z","result":"ERROR","reason":"15m: 1 bar, 60m: 1 bar, 240m: 400 error"}
 {"ts":"2026-04-22T00:00:00Z","result":"ERROR","reason":"Deribit 240m resolution failed (400): endpoint limitation or data unavailable"}
 {"ts":"2026-04-22T04:35:49.062Z","result":"NO_CANDIDATE","reason":"No setup met wr>=0.55 and n>=10"}
+{"ts":"2026-04-23T08:24:23Z","result":"ERROR","reason":"Deribit_API_403_blocked"}
