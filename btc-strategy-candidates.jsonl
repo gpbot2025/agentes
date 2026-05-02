@@ -6,3 +6,4 @@
 {"ts":"2026-04-26T08:12:36Z","result":"ERROR","reason":"API_403_Forbidden"}
 {"ts":"2026-04-30T06:29:33.828Z","result":"ERROR","reason":"Deribit API host not accessible"}
 {"ts":"2026-05-01T04:34:42.022Z","result":"ERROR","reason":"Deribit API fetch blocked"}
+{"ts":"2026-05-02T08:08:50Z","result":"ERROR","reason":"DERIBIT_API_FETCH_FAILED"}
