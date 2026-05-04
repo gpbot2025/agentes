@@ -9,3 +9,4 @@
 {"ts":"2026-05-02T08:08:50Z","result":"ERROR","reason":"DERIBIT_API_FETCH_FAILED"}
 {"ts":"2026-05-03T04:38:28Z","result":"ERROR","reason":"Deribit API 403 Forbidden"}
 {"ts":"2026-05-04T06:36:38.592Z","result":"ERROR","reason":"Deribit API inaccessible"}
+{"ts":"2026-05-04T08:29:39Z","result":"ERROR","reason":"Deribit API host not in allowlist"}
