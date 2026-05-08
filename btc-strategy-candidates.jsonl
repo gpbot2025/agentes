@@ -13,3 +13,4 @@
 {"ts":"2026-05-05T06:13:52.946Z","result":"ERROR","reason":"Deribit API 403 Forbidden on all 3 timeframes"}
 {"ts":"2026-05-05T08:07:15Z","result":"ERROR","reason":"Deribit_API_blocked_not_in_allowlist"}
 {"ts":"2026-05-07T08:08:44.514Z","result":"ERROR","reason":"Deribit API access blocked"}
+{"ts":"2026-05-08T04:34:34.534Z","result":"ERROR","reason":"Deribit_API_403_Forbidden_host_not_in_allowlist"}
