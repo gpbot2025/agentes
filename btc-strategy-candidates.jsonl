@@ -20,3 +20,4 @@
 {"ts":"2026-05-20T04:32:39Z","result":"ERROR","reason":"Deribit API blocked by network policy"}
 {"ts":"2026-05-25T04:34:36.369Z","result":"ERROR","reason":"Network policy blocks deribit.com"}
 {"ts":"2026-05-26T08:06:42Z","result":"ERROR","reason":"Deribit API blocked by network policy"}
+{"ts":"2026-05-27T08:03:35.914Z","result":"ERROR","reason":"Deribit API 403 Forbidden"}
