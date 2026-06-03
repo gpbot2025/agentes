@@ -26,3 +26,4 @@
 {"ts":"2026-05-31T06:08:25.919Z","result":"ERROR","reason":"Deribit API not in network allowlist"}
 {"ts":"2026-06-01T04:32:36Z","result":"ERROR","reason":"Deribit API 403 Forbidden"}
 {"ts":"2026-06-02T08:04:30Z","result":"ERROR","reason":"deribit.com not in allowlist"}
+{"ts":"2026-06-03T04:32:37Z","result":"ERROR","reason":"network_restricted_env"}
