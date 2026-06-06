@@ -30,3 +30,4 @@
 {"ts":"2026-06-04T04:32:43Z","result":"ERROR","reason":"Deribit API blocked by network policy"}
 {"ts":"2026-06-05T04:32:49Z","result":"ERROR","reason":"Deribit host not in allowlist"}
 {"ts":"2026-06-05T06:09:02.838Z","result":"ERROR","reason":"Deribit API host not in allowlist - network policy restriction"}
+{"ts":"2026-06-06T04:32:59.740Z","result":"ERROR","reason":"deribit-not-in-allowlist"}
