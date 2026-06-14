@@ -37,3 +37,4 @@
 {"ts":"2026-06-11T08:07:08Z","result":"ERROR","reason":"Deribit API not accessible in environment"}
 {"ts":"2026-06-12T06:08:20.427Z","result":"ERROR","reason":"Deribit API blocked in remote env"}
 {"ts":"2026-06-13T06:07:14.067Z","result":"ERROR","reason":"Network access denied to Deribit API"}
+{"ts":"2026-06-14T08:05:38Z","result":"ERROR","reason":"network-egress-deribit-blocked"}
