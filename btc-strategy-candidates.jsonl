@@ -40,3 +40,4 @@
 {"ts":"2026-06-14T08:05:38Z","result":"ERROR","reason":"network-egress-deribit-blocked"}
 {"ts":"2026-06-15T06:09:55.977Z","result":"ERROR","reason":"Network blocked: Deribit API unavailable"}
 {"ts":"2026-06-16T08:06:20Z","result":"ERROR","reason":"Deribit API host_not_allowed"}
+{"ts":"2026-06-17T04:32:41.988Z","result":"ERROR","reason":"Deribit API host not in allowlist"}
