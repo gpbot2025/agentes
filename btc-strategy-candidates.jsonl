@@ -42,3 +42,4 @@
 {"ts":"2026-06-16T08:06:20Z","result":"ERROR","reason":"Deribit API host_not_allowed"}
 {"ts":"2026-06-17T04:32:41.988Z","result":"ERROR","reason":"Deribit API host not in allowlist"}
 {"ts":"2026-06-17T06:08:24Z","result":"ERROR","reason":"Deribit host not in allowlist"}
+{"ts":"2026-06-19T04:32:18Z","result":"ERROR","reason":"Network: Deribit API host not in allowlist"}
