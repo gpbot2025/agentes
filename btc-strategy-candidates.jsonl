@@ -32,3 +32,6 @@
 {"ts":"2026-06-28T04:32:48Z","result":"ERROR","reason":"Deribit API blocked by proxy policy (403)"}
 {"ts":"2026-06-28T06:06:29Z","result":"ERROR","reason":"Network proxy blocked Deribit API access (403 Forbidden on CONNECT)"}
 {"ts":"2026-06-28T08:04:23.130Z","result":"ERROR","reason":"Proxy 403: Deribit API blocked"}
+{"ts":"2026-06-30T04:32:51.995Z","result":"ERROR","reason":"Deribit API blocked by network policy"}
+{"ts":"2026-06-30T06:07:07.671Z","result":"ERROR","reason":"network_policy_denied_deribit_403"}
+{"ts":"2026-06-30T06:07:07.671Z","result":"ERROR","reason":"network_policy_denied_deribit_403"}
