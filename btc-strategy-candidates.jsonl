@@ -40,3 +40,4 @@
 {"ts":"2026-07-04T04:32:04.995Z","result":"ERROR","reason":"Deribit API blocked by proxy (403)"}
 {"ts":"2026-07-04T08:03:14.634Z","result":"ERROR","reason":"Deribit API blocked by gateway policy (403 CONNECT rejection)"}
 {"ts":"2026-07-05T04:32:34.016Z","result":"ERROR","reason":"Deribit API access denied by network policy"}
+{"ts":"2026-07-05T06:07:40.757Z","result":"ERROR","reason":"API_ACCESS_DENIED"}
