@@ -43,3 +43,4 @@
 {"ts":"2026-07-05T06:07:40.757Z","result":"ERROR","reason":"API_ACCESS_DENIED"}
 {"ts":"2026-07-07T08:03:07.846Z","result":"ERROR","reason":"proxy_blocked_deribit_api"}
 {"ts":"2026-07-08T04:32:34Z","result":"ERROR","reason":"CONNECT_TUNNEL_403_Deribit_proxy_blocked"}
+{"ts":"2026-07-08T06:08:20.160Z","result":"ERROR","reason":"Proxy blocked Deribit API access"}
