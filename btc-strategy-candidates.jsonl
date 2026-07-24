@@ -60,3 +60,4 @@
 {"ts":"2026-07-20T04:33:08.179Z","result":"ERROR","reason":"Policy denial: www.deribit.com blocked by egress proxy"}
 {"ts":"2026-07-21T06:11:43Z","result":"ERROR","reason":"Deribit API blocked by egress policy (403)"}
 {"ts":"2026-07-22T04:32:22Z","result":"ERROR","reason":"proxy blocks deribit.com"}
+{"ts":"2026-07-24T06:12:55.800Z","result":"ERROR","reason":"Proxy blocked Deribit CONNECT tunnel 403"}
