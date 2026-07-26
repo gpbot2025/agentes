@@ -63,3 +63,4 @@
 {"ts":"2026-07-24T06:12:55.800Z","result":"ERROR","reason":"Proxy blocked Deribit CONNECT tunnel 403"}
 {"ts":"2026-07-25T08:03:07.518Z","result":"ERROR","reason":"Deribit API blocked by network policy"}
 {"ts":"2026-07-26T04:32:32Z","result":"ERROR","reason":"Proxy 403: Deribit API blocked"}
+{"ts":"2026-07-26T06:10:05Z","result":"ERROR","reason":"Deribit API fetch blocked (HTTP 403)"}
