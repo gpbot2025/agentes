@@ -67,3 +67,4 @@
 {"ts":"2026-07-27T06:20:44.887Z","result":"ERROR","reason":"Deribit API unreachable (403/timeout)"}
 {"ts":"2026-07-27T08:05:05.419Z","result":"ERROR","reason":"Proxy denied access to deribit.com (403)"}
 {"ts":"2026-07-28T04:33:01.051Z","result":"ERROR","reason":"network policy blocks deribit (gateway 403)"}
+{"ts":"2026-07-28T06:17:01Z","result":"ERROR","reason":"Deribit API access failed (HTTP 403/timeout)"}
