@@ -70,3 +70,4 @@
 {"ts":"2026-07-28T06:17:01Z","result":"ERROR","reason":"Deribit API access failed (HTTP 403/timeout)"}
 {"ts":"2026-07-29T04:32:07.567Z","result":"ERROR","reason":"gateway 403 to Deribit CONNECT: policy denial"}
 {"ts":"2026-07-30T06:14:22Z","result":"ERROR","reason":"Deribit API blocked by network policy (403 Forbidden)"}
+{"ts":"2026-07-30T08:03:41Z","result":"ERROR","reason":"proxy_blocked_deribit"}
