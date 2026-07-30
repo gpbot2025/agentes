@@ -49,24 +49,7 @@
 {"ts":"2026-07-09T08:03:37.589Z","result":"ERROR","reason":"Deribit API blocked by proxy (403 policy denial)"}
 {"ts":"2026-07-10T06:12:18Z","result":"ERROR","reason":"proxy_403_deribit_api"}
 {"ts":"2026-07-10T08:03:25.186Z","result":"ERROR","reason":"Deribit API proxy 403"}
-{"ts":"2026-07-16T04:32:53.804Z","result":"ERROR","reason":"Deribit API blocked by proxy (policy denial)"}
-{"ts":"2026-07-16T06:08:54.444Z","result":"ERROR","reason":"deribit.com blocked by proxy 403"}
-{"ts":"2026-07-16T08:03:14Z","result":"ERROR","reason":"Deribit API blocked by proxy (403)"}{"ts":"2026-07-17T04:32:56Z","result":"ERROR","reason":"Deribit API blocked by egress policy"}
-{"ts":"2026-07-18T04:33:00.742Z","result":"ERROR","reason":"Deribit API blocked by network policy (403)"}
-{"ts":"2026-07-18T06:07:59.278Z","result":"ERROR","reason":"Deribit API 403: proxy policy denial"}
-
-{"ts":"2026-07-18T08:03:28Z","result":"ERROR","reason":"deribit.com blocked by proxy policy"}
-{"ts":"2026-07-19T04:32:58Z","result":"ERROR","reason":"Deribit API blocked by proxy policy"}
-{"ts":"2026-07-20T04:33:08.179Z","result":"ERROR","reason":"Policy denial: www.deribit.com blocked by egress proxy"}
-{"ts":"2026-07-21T06:11:43Z","result":"ERROR","reason":"Deribit API blocked by egress policy (403)"}
-{"ts":"2026-07-22T04:32:22Z","result":"ERROR","reason":"proxy blocks deribit.com"}
-{"ts":"2026-07-24T06:12:55.800Z","result":"ERROR","reason":"Proxy blocked Deribit CONNECT tunnel 403"}
-{"ts":"2026-07-25T08:03:07.518Z","result":"ERROR","reason":"Deribit API blocked by network policy"}
-{"ts":"2026-07-26T04:32:32Z","result":"ERROR","reason":"Proxy 403: Deribit API blocked"}
-{"ts":"2026-07-26T06:10:05Z","result":"ERROR","reason":"Deribit API fetch blocked (HTTP 403)"}
-{"ts":"2026-07-27T06:20:44.887Z","result":"ERROR","reason":"Deribit API unreachable (403/timeout)"}
-{"ts":"2026-07-27T08:05:05.419Z","result":"ERROR","reason":"Proxy denied access to deribit.com (403)"}
-{"ts":"2026-07-28T04:33:01.051Z","result":"ERROR","reason":"network policy blocks deribit (gateway 403)"}
-{"ts":"2026-07-28T06:17:01Z","result":"ERROR","reason":"Deribit API access failed (HTTP 403/timeout)"}
-{"ts":"2026-07-29T04:32:07.567Z","result":"ERROR","reason":"gateway 403 to Deribit CONNECT: policy denial"}
+{"ts":"2026-07-11T04:32:44.971Z","result":"ERROR","reason":"Deribit API 403 / network blocked"}
+{"ts":"2026-07-12T04:33:10.462Z","result":"ERROR","reason":"Deribit API 403 Forbidden - network policy blocks access"}
+{"ts":"2026-07-13T06:08:32.702Z","result":"ERROR","reason":"Deribit API blocked by egress policy"}
 {"ts":"2026-07-30T04:32:36Z","result":"ERROR","reason":"Deribit API blocked by egress policy"}
