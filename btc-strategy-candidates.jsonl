@@ -76,3 +76,4 @@
 {"ts":"2026-08-02T06:11:05.950Z","result":"ERROR","reason":"Deribit API 403 proxy tunnel failed"}
 {"ts":"2026-08-03T04:32:27Z","result":"ERROR","reason":"Deribit blocked by egress policy (403)"}
 {"ts":"2026-08-03T06:21:16.451Z","result":"ERROR","reason":"Deribit API access blocked by proxy"}
+{"ts":"2026-08-04T06:23:52.498Z","result":"ERROR","reason":"Deribit host not in allowlist"}
