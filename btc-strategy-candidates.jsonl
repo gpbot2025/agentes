@@ -79,3 +79,4 @@
 {"ts":"2026-08-04T06:23:52.498Z","result":"ERROR","reason":"Deribit host not in allowlist"}
 {"ts":"2026-08-04T08:04:48.229Z","result":"ERROR","reason":"proxy_blocked_deribit_403"}
 {"ts":"2026-08-05T04:32:55.408Z","result":"ERROR","reason":"proxy_403_deribit"}
+{"ts":"2026-08-05T06:23:35.679Z","result":"ERROR","reason":"Deribit API blocked by network policy"}
