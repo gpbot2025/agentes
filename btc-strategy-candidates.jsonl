@@ -89,3 +89,4 @@
 {"ts":"2026-08-12T08:04:29.434Z","result":"ERROR","reason":"EGRESS_BLOCKED: Deribit API unreachable"}
 {"ts":"2026-08-13T04:33:16Z","result":"ERROR","reason":"Deribit API blocked by egress proxy"}
 {"ts":"2026-08-13T06:32:42Z","result":"ERROR","reason":"Deribit API blocked by network proxy"}
+{"ts":"2026-08-14T08:16:24Z","result":"ERROR","reason":"EGRESS_BLOCKED: deribit.com"}
