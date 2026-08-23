@@ -98,3 +98,4 @@
 {"ts":"2026-08-22T04:32:57.128Z","result":"ERROR","reason":"Deribit API blocked by network proxy"}
 {"ts":"2026-08-22T06:09:36.058Z","result":"ERROR","reason":"Deribit egress blocked"}
 {"ts":"2026-08-23T04:32:01.154Z","result":"ERROR","reason":"Deribit API blocked by network proxy"}
+{"ts":"2026-08-23T06:09:22.894Z","result":"ERROR","reason":"deribit_egress_blocked"}
