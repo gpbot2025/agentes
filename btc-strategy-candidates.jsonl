@@ -120,3 +120,4 @@
 {"ts":"2026-09-11T08:04:18Z","result":"ERROR","reason":"Deribit API blocked by network policy (403)"}
 {"ts":"2026-09-12T04:32:24Z","result":"ERROR","reason":"Deribit API blocked by network policy"}
 {"ts":"2026-09-12T06:07:58.956Z","result":"ERROR","reason":"network_policy_blocks_deribit"}
+{"ts":"2026-09-12T08:03:12.129Z","result":"ERROR","reason":"Deribit API blocked by proxy"}
