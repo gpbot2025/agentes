@@ -126,3 +126,4 @@
 {"ts":"2026-09-14T04:32:34.111Z","result":"ERROR","reason":"Deribit API blocked by proxy 403"}
 {"ts":"2026-09-16T04:32:40Z","result":"ERROR","reason":"Deribit API unreachable (proxy policy)"}
 {"ts":"2026-09-16T06:13:33Z","result":"ERROR","reason":"deribit.com blocked by egress policy"}
+{"ts":"2026-09-18T08:03:32.427Z","result":"ERROR","reason":"network_denied_deribit"}
