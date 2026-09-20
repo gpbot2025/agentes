@@ -129,3 +129,4 @@
 {"ts":"2026-09-18T08:03:32.427Z","result":"ERROR","reason":"network_denied_deribit"}
 {"ts":"2026-09-19T08:03:17Z","result":"ERROR","reason":"EGRESS_BLOCKED: Deribit API access denied by proxy"}
 {"ts":"2026-09-20T06:02:17Z","result":"ERROR","reason":"deribit API blocked by proxy 403"}
+{"ts":"2026-09-20T08:16:23Z","result":"ERROR","reason":"Deribit API blocked by proxy"}
