@@ -10,3 +10,4 @@
 {"ts":"2026-10-05T08:16:56.266Z","result":"ERROR","reason":"Deribit access denied: proxy policy"}
 {"ts":"2026-10-06T06:21:02.723Z","result":"ERROR","reason":"Deribit API egress blocked by proxy"}
 {"ts":"2026-10-08T04:44:26.935Z","result":"ERROR","reason":"Deribit API access blocked by network egress proxy"}
+{"ts":"2026-10-09T06:26:57.115Z","result":"ERROR","reason":"Deribit API unreachable"}
