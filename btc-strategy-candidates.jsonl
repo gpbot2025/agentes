@@ -18,3 +18,4 @@
 {"ts":"2026-10-13T04:45:02.974Z","result":"ERROR","reason":"Network access to Deribit API denied by policy"}
 {"ts":"2026-10-13T08:16:38Z","result":"ERROR","reason":"Deribit API unreachable"}
 {"ts":"2026-10-15T04:45:09.785Z","result":"ERROR","reason":"Deribit fetch blocked by gateway 403 policy"}
+{"ts":"2026-10-15T06:02:40.099Z","result":"ERROR","reason":"proxy_blocked_deribit"}
