@@ -27,3 +27,6 @@
 {"ts":"2026-10-20T08:16:01.162Z","result":"ERROR","reason":"Deribit API network access denied (proxy 403)"}
 {"ts":"2026-10-21T04:38:36.537Z","result":"ERROR","reason":"Deribit API unreachable"}
 {"ts":"2026-10-22T04:38:44.703Z","result":"ERROR","reason":"Network unavailable: Deribit API unreachable"}
+{"ts":"2026-10-22T06:23:16Z","result":"ERROR","reason":"network_policy_denied_deribit_403"}
+{"ts":"2026-10-22T06:23:16Z","result":"ERROR","reason":"network_policy_denied_deribit_403"}
+{"ts":"2026-10-22T06:23:16Z","result":"ERROR","reason":"network_policy_denied_deribit_403"}
