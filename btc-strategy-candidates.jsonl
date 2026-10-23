@@ -30,3 +30,4 @@
 {"ts":"2026-10-22T06:23:16Z","result":"ERROR","reason":"network_policy_denied_deribit_403"}
 {"ts":"2026-10-22T06:23:16Z","result":"ERROR","reason":"network_policy_denied_deribit_403"}
 {"ts":"2026-10-22T06:23:16Z","result":"ERROR","reason":"network_policy_denied_deribit_403"}
+{"ts":"2026-10-23T04:39:05.605Z","result":"ERROR","reason":"Network policy blocks Deribit API (403)"}
