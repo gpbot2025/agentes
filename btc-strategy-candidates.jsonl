@@ -32,3 +32,4 @@
 {"ts":"2026-10-22T06:23:16Z","result":"ERROR","reason":"network_policy_denied_deribit_403"}
 {"ts":"2026-10-24T08:15:37Z","result":"ERROR","reason":"Deribit API unreachable (ENOTFOUND)"}
 {"ts":"2026-10-25T04:38:51.701Z","result":"ERROR","reason":"Deribit API unreachable (proxy 403)"}
+{"ts":"2026-10-26T04:38:45.408Z","result":"ERROR","reason":"Deribit API unreachable (DNS ENOTFOUND)"}
