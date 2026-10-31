@@ -40,3 +40,4 @@
 {"ts":"2026-10-29T04:38:51.985Z","result":"ERROR","reason":"Deribit API unreachable"}
 {"ts":"2026-10-29T08:19:00Z","result":"ERROR","reason":"network-fetch-failed"}
 {"ts":"2026-10-30T06:15:09Z","result":"ERROR","reason":"Deribit API access denied"}
+{"ts":"2026-10-31T04:38:46.589Z","result":"ERROR","reason":"Deribit domain not allowed in network policy"}
