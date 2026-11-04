@@ -45,3 +45,4 @@
 {"ts":"2026-11-01T04:38:35Z","result":"ERROR","reason":"Network policy blocks deribit.com"}
 {"ts":"2026-11-02T04:38:46.255Z","result":"ERROR","reason":"proxy_blocked_deribit"}
 {"ts":"2026-11-03T08:15:07.343Z","result":"ERROR","reason":"Deribit API domain not allowed in network settings"}
+{"ts":"2026-11-04T04:38:29.025Z","result":"ERROR","reason":"Deribit API unreachable from session"}
