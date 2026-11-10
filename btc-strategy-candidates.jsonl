@@ -51,3 +51,4 @@
 {"ts":"2026-11-07T06:10:27Z","result":"ERROR","reason":"Deribit domain not allowed"}
 {"ts":"2026-11-07T08:14:47Z","result":"ERROR","reason":"Deribit blocked by network policy"}
 {"ts":"2026-11-09T08:18:36.056Z","result":"ERROR","reason":"Deribit API unreachable"}
+{"ts":"2026-11-10T08:16:48Z","result":"ERROR","reason":"www.deribit.com not accessible in cloud session network"}
