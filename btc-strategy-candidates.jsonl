@@ -55,3 +55,4 @@
 {"ts":"2026-11-11T08:15:23Z","result":"ERROR","reason":"Deribit API not accessible"}
 {"ts":"2026-11-14T04:38:30.517Z","result":"ERROR","reason":"Deribit API not accessible in session network"}
 {"ts":"2026-11-14T08:15:04.130Z","result":"ERROR","reason":"Deribit API not accessible (domain not allowed)"}
+{"ts":"2026-11-15T04:38:43.810Z","result":"ERROR","reason":"Deribit domain not allowed in network policy"}
