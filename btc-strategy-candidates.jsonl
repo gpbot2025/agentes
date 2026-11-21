@@ -61,3 +61,4 @@
 {"ts":"2026-11-18T08:15:04.094Z","result":"ERROR","reason":"Deribit API network access denied in cloud session"}
 {"ts":"2026-11-20T08:18:13.335Z","result":"ERROR","reason":"Deribit domain not accessible from cloud session network"}
 {"ts":"2026-11-21T06:10:59Z","result":"ERROR","reason":"network_blocked_deribit"}
+{"ts":"2026-11-21T08:14:46.845Z","result":"ERROR","reason":"Deribit API unreachable from cloud session"}
