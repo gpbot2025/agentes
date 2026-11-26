@@ -67,3 +67,4 @@
 {"ts":"2026-11-22T08:15:04Z","result":"ERROR","reason":"Deribit API network access denied in session"}
 {"ts":"2026-11-24T04:38:37.640Z","result":"ERROR","reason":"Deribit API not accessible in cloud environment"}
 {"ts":"2026-11-26T04:38:24.386Z","result":"ERROR","reason":"Deribit API network unavailable"}
+{"ts":"2026-11-26T06:10:27.819Z","result":"ERROR","reason":"deribit.com blocked by proxy 403"}
