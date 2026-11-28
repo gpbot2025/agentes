@@ -71,3 +71,4 @@
 {"ts":"2026-11-26T08:14:45.575Z","result":"ERROR","reason":"Deribit API network restricted"}
 {"ts":"2026-11-27T04:39:06.767Z","result":"ERROR","reason":"deribit-proxy-blocked"}
 {"ts":"2026-11-28T06:10:51.878Z","result":"ERROR","reason":"Deribit API unreachable from cloud session"}
+{"ts":"2026-11-28T08:15:07.322Z","result":"ERROR","reason":"Deribit API unreachable"}
